@@ -1,2 +1,2 @@
-# Car_Price_Prediction
-Car_Price_Prediction
+streamlit
+scikit-learn--1.1.2
